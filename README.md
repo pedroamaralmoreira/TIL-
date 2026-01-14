@@ -1,30 +1,36 @@
-# 📚 Meu Caderno de Estudos (TIL - Today I Learned)
+# ☕ Caderno de Estudos - Java (Udemy)
 
-Bem-vindo(a) ao meu repositório de anotações! Aqui eu documento minha evolução diária na programação, salvando códigos, exercícios e resumos do que aprendi.
+Bem-vindo ao meu repositório de estudos! Aqui eu concentro todo o meu progresso e exercícios práticos do curso de **Java Completo** da Udemy.
 
-O objetivo deste "Digital Garden" é fixar o conhecimento e servir de consulta futura.
+O objetivo é documentar a evolução do aprendizado, separando cada módulo do curso em pacotes específicos.
 
-## 🚀 Tecnologias e Ferramentas
+## 🛠️ Tecnologias Utilizadas
 
-* **Linguagem Principal:** Java
-* **IDE:** IntelliJ IDEA
-* **Versionamento:** Git & GitHub
+* **Java** (JDK atualizado)
+* **IntelliJ IDEA** (IDE)
+* **Git & GitHub** (Versionamento)
 
-## 📂 Estrutura do Repositório
+## 📂 Como o projeto está organizado?
 
-O repositório está organizado por tópicos ou cursos:
+Para facilitar a revisão, adotei a seguinte estrutura de pastas dentro de `src`:
 
-* `/src`: Códigos fonte e exercícios práticos.
-* `/anotacoes`: Resumos teóricos (se houver).
-* `Curso Udemy`: Exercícios específicos do curso que estou fazendo.
+* **`src/folhas`**: Contém os pacotes com os exercícios de cada seção.
+    * `section_8_75`: Exercícios sobre Introdução a POO (Ex: *Triângulo, Salário, Retângulo*).
+    * `section_9_...`: Construtores e Encapsulamento.
+    * `section_10_...`: Comportamento de memória, Arrays e Listas.
 
-## 📝 Log de Aprendizado (Destaques)
+> Cada classe (`.java`) dentro dessas pastas representa a resolução de um exercício específico proposto no curso.
 
-- [x] Configuração do Ambiente e Git
-- [X] Lógica de Programação (Condicionais, Loops)
-- [X] Programação Orientada a Objetos (POO)
-- [ ] Estrutura de Dados
-- [ ] Banco de Dados (Futuro)
+## 📝 Log de Aprendizado (Progresso)
+
+- [x] Configuração do Ambiente (Java + IntelliJ)
+- [x] Lógica de Programação e Sintaxe Básica
+- [x] Introdução à Programação Orientada a Objetos (Seção 8)
+- [ ] Construtores, palavra `this`, Sobrecarga e Encapsulamento
+- [ ] Arrays, Listas e Matrizes
+- [ ] Enumerações e Composição
+- [ ] Herança e Polimorfismo
+- [ ] Tratamento de Exceções
 
 ---
-*Este repositório é mantido por Pedro Moreira. Sinta-se à vontade para sugerir melhorias!*
+*Desenvolvido por Pedro Moreira durante os estudos de Java.*
